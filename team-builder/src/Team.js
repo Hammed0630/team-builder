@@ -9,9 +9,9 @@ export default function Team(props) {
 
   return (
     <div className="team container">
-      {/* <p>Name: {details.name}</p>
+      <p>Name: {details.name}</p>
       <p>Email: {details.email}</p>
-      <p>Role: {details.role}</p> */}
+      <p>Role: {details.role}</p>
     </div>
   );
 }
